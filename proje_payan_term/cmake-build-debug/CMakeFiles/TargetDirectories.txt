@@ -1,0 +1,3 @@
+C:/Users/MMNazari1380/CLionProjects/proje_payan_term/cmake-build-debug/CMakeFiles/proje_payan_term.dir
+C:/Users/MMNazari1380/CLionProjects/proje_payan_term/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MMNazari1380/CLionProjects/proje_payan_term/cmake-build-debug/CMakeFiles/rebuild_cache.dir

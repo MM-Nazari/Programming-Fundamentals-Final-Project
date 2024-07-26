@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MMNazari1380/CLionProjects/proje_payan_term/proje.c
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+string.h
+-
+conio.h
+-
+windows.h
+-
+MMsystem.h
+-
+unistd.h
+-
+
